@@ -22,4 +22,7 @@ Simple expense tracker built with MERN stack
  cd client
  npm run build
  
+ ## Preview
+ ![](ss.jpg)
+ 
 
