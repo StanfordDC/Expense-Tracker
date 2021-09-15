@@ -1,0 +1,12 @@
+React -> Javascript library to create single page app
+npx create-react-app -> create react app
+node_modules -> all dependencies will be stored inside the folder
+public -> all public files to the browser will be stored inside the folder
+src -> the folder that we are going to work on
+React.StrictMode -> gives us warning if something goes wrong
+npm install -> install all dependencies from package.json file and put them into node_modules folder
+{} -> for dynamic value or any javascript codes
+export default fileName -> export it to be able to use it in other files
+sfc (stateless functional component) -> create a javascript function template
+rafc -> create a javascript template
+component -> template	
