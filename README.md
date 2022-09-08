@@ -1,8 +1,8 @@
 
 
-# Expense-Tracker
+# Expense Tracker
 
-Simple full stack expense tracker built with Javascript and  MERN (MongoDB, Express, ReactJS, NodeJS) technologies
+Full stack expense tracker built with Javascript and  MERN (MongoDB, Express, ReactJS, NodeJS)
 
 ## Usage Overview
 User can input the amount of income or expense (add negative sign before the amount) and put the appropriate description
